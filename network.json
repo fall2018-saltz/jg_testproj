@@ -1,6 +1,9 @@
 {
     "collaborators": [
-        "jganatra07"
+        "jganatra07",
+        "eashani",
+        "tshetty",
+        "amgadge"
     ],
     "created_at": "2018-09-27 15:36:34",
     "edges": [
@@ -36,6 +39,6 @@
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-09-27 15:36:34",
+    "updated_at": "2018-09-27 15:37:32",
     "url": "https://github.com/fall2018-saltz/jg_testproj"
 }
